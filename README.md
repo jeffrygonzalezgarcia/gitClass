@@ -10,7 +10,7 @@ para conectarme a un reporsitorio en github debo configurar mi pc mediante la co
 datos importantes
 Esto configura mi nombre y correo en las variables globales de git.
 git config --global user.name "Jeffry"
-git config --global user.email "jeffryg05@gmail.com"
+git config --global user.email "micorreoeletronico.com"
 
 
 Para conectar mi pc tengo que generar una llave ssh la cual me permitira conectar mi pc con git.
