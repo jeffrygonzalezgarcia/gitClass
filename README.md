@@ -1,5 +1,5 @@
 # gitClass
-Curso Git para mejorar
+Curso Git para mejorar branch mejorando
 mkdir--comando de linux para crear una carpeta.
 
 mkdir--comando de linux para crear una carpeta.
